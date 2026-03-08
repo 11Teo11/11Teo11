@@ -20,20 +20,20 @@ I am highly motivated by challenging technical problems and eager to embrace new
 ---
 
 ### Technical focus
-**Languages:** Python, C++, Java, C#, Oracle PL/SQL, Bash, x86 Assembly.
+**Languages:**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![Oracle PL/SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+- ![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-00599C?style=for-the-badge)
 
-**Frameworks:** Asp.net Core MVC, Entity Framework core.
+**Frameworks:**
 - ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 - ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-**Tools:** Git, Linux, Pygame, SFML.
+**Tools:**
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - ![Pygame](https://img.shields.io/badge/Pygame-111111?style=for-the-badge&logo=python&logoColor=white)
