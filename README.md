@@ -2,7 +2,7 @@
 
 ### Education & Current status
 - **2nd-year Computer Science student** at the **University of Bucharest**, Faculty of Mathematics and Informatics.
-- **Teaching Assistant** for the **Databases** course @ University of Bucharest.
+- former **Teaching Assistant** for the **Algebraic Structures in Informatics** course @ University of Bucharest.
 - **Undergraduate Researcher** for the **"InstRead"** project @ University of Bucharest.
 
 ---
